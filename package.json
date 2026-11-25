@@ -1,0 +1,1 @@
+{"description":"One-line joke about the meeting that should have been an email, for make.fun","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
